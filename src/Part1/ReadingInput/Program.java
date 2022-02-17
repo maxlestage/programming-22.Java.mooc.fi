@@ -1,4 +1,4 @@
-package Part1.ReadingInput;
+package part1.readingInput;
 
 // Introduce the scanner tool used for reading user input
 import java.util.Scanner;

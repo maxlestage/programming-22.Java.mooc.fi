@@ -1,4 +1,4 @@
-package Part1.ReadingInput;
+package part1.readingInput;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Part1.Printing;
+package part1.printing;
 
 public class OnceUponATime {
 

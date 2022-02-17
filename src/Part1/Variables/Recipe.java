@@ -1,4 +1,4 @@
-package Part1.Variables;
+package part1.variables;
 
 public class Recipe {
     public static void main(String[] args) {
