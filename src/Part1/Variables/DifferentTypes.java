@@ -3,6 +3,7 @@ package part1.variables;
 import java.util.Scanner;
 
 public class DifferentTypes {
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

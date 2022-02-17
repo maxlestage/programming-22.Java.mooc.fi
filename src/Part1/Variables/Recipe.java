@@ -1,6 +1,7 @@
 package part1.variables;
 
 public class Recipe {
+
     public static void main(String[] args) {
 
         System.out.println("Chicken: ");
@@ -26,15 +27,7 @@ public class Recipe {
 /*
  * Output Exemple :
  * 
- * Chicken:
- * 9000
- * Bacon (kg):
- * 0.1
- * Tractor:
- * Zetor
+ * Chicken: 9000 Bacon (kg): 0.1 Tractor: Zetor
  * 
- * And finally, a summary:
- * 9000
- * 0.1
- * Zetor
+ * And finally, a summary: 9000 0.1 Zetor
  */

@@ -6,11 +6,7 @@ public class Comments {
         System.out.println("Text to print");
         System.out.println("More text to print!");
         /*
-         * Next:
-         * - more on printing
-         * - more practice
-         * - variables
-         * - ...
+         * Next: - more on printing - more practice - variables - ...
          */
         System.out.println("Some other text to print");
         // System.out.println("Trying stuff out")
