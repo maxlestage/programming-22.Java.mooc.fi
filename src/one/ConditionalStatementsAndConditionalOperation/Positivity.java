@@ -9,9 +9,7 @@ public class Positivity {
          * whether or not it is positive (greater than zero).
          */
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Give a number:");
-
         int value = Integer.valueOf(scanner.nextLine());
 
         if (value > 0) {
