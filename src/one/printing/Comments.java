@@ -1,7 +1,5 @@
 package one.printing;
 
-
-
 public class Comments {
     public static void main(String[] args) {
         // Printing
